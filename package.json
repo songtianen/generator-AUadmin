@@ -1,0 +1,28 @@
+{
+  "name": "generator-auadmin",
+  "version": "1.0.0",
+  "description": "基于ract+webpack的项目目录快速生成器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/songtianen/generator-AUadmin.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "song",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/songtianen/generator-AUadmin/issues"
+  },
+  "homepage": "https://github.com/songtianen/generator-AUadmin#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chalk": "^2.4.2",
+    "yeoman-generator": "^4.0.0",
+    "yosay": "^2.0.2"
+  }
+}
