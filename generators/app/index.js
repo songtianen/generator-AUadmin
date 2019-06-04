@@ -44,6 +44,10 @@ this.fs.copy(
               this.destinationPath('nodemon.json'),
     );
 this.fs.copy(
+              this.templatePath('theme.js'),
+              this.destinationPath('theme.j'),
+    );
+this.fs.copy(
               this.templatePath('favicon.ico'),
               this.destinationPath('favicon.ico'),
     );
