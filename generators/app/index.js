@@ -29,6 +29,10 @@ writing() {
                this.templatePath('src/'),
                this.destinationPath('src/')
     );
+this.fs.copy(
+               this.templatePath('src/.eslintrc.json'),
+               this.destinationPath('src/.eslintrc.json')
+    );
      this.fs.copy(
               this.templatePath('.babelrc.js'),
               this.destinationPath('.babelrc.js'),
@@ -45,7 +49,7 @@ this.fs.copy(
     );
 this.fs.copy(
               this.templatePath('theme.js'),
-              this.destinationPath('theme.j'),
+              this.destinationPath('theme.js'),
     );
 this.fs.copy(
               this.templatePath('favicon.ico'),
