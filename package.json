@@ -1,6 +1,6 @@
 {
   "name": "generator-auadmin",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "基于react+webpack的项目目录快速生成器",
   "files": [
     "app"
