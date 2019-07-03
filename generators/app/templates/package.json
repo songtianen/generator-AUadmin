@@ -1,8 +1,8 @@
 {
-  "name": "admin",
+  "name": "generator-AUadmin",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.com:songtianen/AU-admin.git",
+  "repository": "git@github.com:songtianen/generator-AUadmin.git",
   "author": "song <songten@icloud.com>",
   "license": "MIT",
   "husky": {
