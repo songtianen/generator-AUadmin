@@ -1,5 +1,5 @@
 {
-  "name": "generator-AUadmin",
+  "name": "admin",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:songtianen/generator-AUadmin.git",
