@@ -1,1 +1,11 @@
-# 可灵活删除相应文件，对应架构
+#### npm install -g yo
+
+##### yo name
+
+###### yarn install
+
+###### yarn dev:server
+
+###### yarn dev:client
+
+###### yarn build:client

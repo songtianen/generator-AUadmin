@@ -23,6 +23,7 @@ module.exports = class extends Generator {
   writing() {
     this.fs.copy(this.templatePath("config/"), this.destinationPath("config/"));
     this.fs.copy(this.templatePath("src/"), this.destinationPath("src/"));
+    this.fs.copy(this.templatePath("server/"), this.destinationPath("server/"));
     this.fs.copy(
       this.templatePath("src/.eslintrc.json"),
       this.destinationPath("src/.eslintrc.json")
