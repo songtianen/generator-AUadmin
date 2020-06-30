@@ -101,7 +101,7 @@
     "crypto-js": "^3.1.9-1",
     "dateformat": "^3.0.3",
     "express": "^4.16.4",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "express-session": "^1.15.6",
     "history": "^4.7.2",
     "jsonwebtoken": "^8.5.1",
