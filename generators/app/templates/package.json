@@ -100,7 +100,7 @@
     "create-react-class": "^15.6.3",
     "crypto-js": "^3.1.9-1",
     "dateformat": "^3.0.3",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-jwt": "^5.3.1",
     "express-session": "^1.15.6",
     "history": "^4.7.2",
